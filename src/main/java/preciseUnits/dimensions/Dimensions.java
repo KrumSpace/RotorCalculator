@@ -1,6 +1,7 @@
 package preciseUnits.dimensions;
 
 import preciseUnits.dimensions.primaries.*;
+import preciseUnits.dimensions.primaries.mass.Mass;
 
 import java.util.Map;
 import java.util.HashMap;
