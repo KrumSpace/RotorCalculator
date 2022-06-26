@@ -1,7 +1,7 @@
 package preciseUnits.time;
 
 import preciseUnits.AbstractUnit;
-import preciseUnits.time.units.*;
+import preciseUnits.dimensions.primaries.time.units.*;
 import preciseUnits.unitConversion.AbstractConversion;
 import preciseUnits.unitConversion.ConversionMetadata;
 

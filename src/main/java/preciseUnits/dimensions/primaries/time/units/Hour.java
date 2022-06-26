@@ -1,9 +1,10 @@
-package preciseUnits.time.units;
+package preciseUnits.dimensions.primaries.time.units;
 
 import preciseUnits.AbstractUnit;
 
+//TODO: add javadoc
 public class Hour extends AbstractUnit {
     public Hour() {
-        super("Hour");
+        super("hour");
     }
 }
