@@ -1,4 +1,6 @@
-package preciseUnits.dimensions.primaries;
+package preciseUnits.dimensions.primaries.luminousIntensity;
+
+import preciseUnits.dimensions.primaries.AbstractPrimaryDimension;
 
 //TODO: add javadoc
 public class LuminousIntensity extends AbstractPrimaryDimension {

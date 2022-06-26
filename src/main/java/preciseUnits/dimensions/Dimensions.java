@@ -1,7 +1,13 @@
 package preciseUnits.dimensions;
 
 import preciseUnits.dimensions.primaries.*;
+import preciseUnits.dimensions.primaries.amount.Amount;
+import preciseUnits.dimensions.primaries.electricalCurrent.ElectricalCurrent;
+import preciseUnits.dimensions.primaries.length.Length;
+import preciseUnits.dimensions.primaries.luminousIntensity.LuminousIntensity;
 import preciseUnits.dimensions.primaries.mass.Mass;
+import preciseUnits.dimensions.primaries.temperature.Temperature;
+import preciseUnits.dimensions.primaries.time.Time;
 
 import java.util.Map;
 import java.util.HashMap;
