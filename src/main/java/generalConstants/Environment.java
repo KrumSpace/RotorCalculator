@@ -1,4 +1,4 @@
-package rotorCalculator.data.constants;
+package generalConstants;
 
 // TODO: add javadoc
 public enum Environment {

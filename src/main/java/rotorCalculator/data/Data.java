@@ -1,8 +1,6 @@
 package rotorCalculator.data;
 
-import rotorCalculator.data.constants.Environment;
-import rotorCalculator.data.constants.GeneralConstants;
-import rotorCalculator.data.constants.TimeConstants;
+import generalConstants.*;
 import rotorCalculator.data.rotorModel.Preferences;
 import rotorCalculator.data.rotorModel.Rotor;
 import rotorCalculator.data.rotorModel.results.ResultContainer;
