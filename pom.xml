@@ -13,7 +13,7 @@
         <maven.compiler.source>18</maven.compiler.source>
         <maven.compiler.target>18</maven.compiler.target>
         <maven.surefire.version>3.0.0-M7</maven.surefire.version>
-        <graphicsEngine.version>0.8.0</graphicsEngine.version>
+        <graphicsEngine.version>0.8.1</graphicsEngine.version>
     </properties>
 
     <repositories>
