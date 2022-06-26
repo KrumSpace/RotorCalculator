@@ -1,8 +1,10 @@
 package generalConstants;
 
-// TODO: add javadoc
+/**
+ * An enum for determining the relevant environment.
+ */
 public enum Environment {
-    ROUGH,
-    SI_STANDARD,
-    MOON
+    ROUGH,          // A rough estimate
+    SI_STANDARD,    // SI standard
+    MOON            // Moon conditions
 }
