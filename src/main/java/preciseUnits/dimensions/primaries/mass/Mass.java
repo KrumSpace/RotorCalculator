@@ -1,8 +1,6 @@
 package preciseUnits.dimensions.primaries.mass;
 
-
 import preciseUnits.dimensions.primaries.AbstractPrimaryDimension;
-import preciseUnits.AbstractUnit;
 import preciseUnits.dimensions.primaries.mass.units.Kilogram;
 
 //TODO: add javadoc
