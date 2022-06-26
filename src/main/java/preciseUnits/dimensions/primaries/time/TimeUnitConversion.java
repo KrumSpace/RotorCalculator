@@ -1,10 +1,9 @@
-package preciseUnits.time;
+package preciseUnits.dimensions.primaries.time;
 
 import preciseUnits.AbstractUnit;
 import preciseUnits.dimensions.primaries.time.units.*;
 import preciseUnits.unitConversion.AbstractConversion;
 import preciseUnits.unitConversion.ConversionMetadata;
-
 
 import org.jetbrains.annotations.NotNull;
 
