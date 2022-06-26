@@ -1,4 +1,6 @@
-package unitConversion;
+package preciseUnits.unitConversion;
+
+import preciseUnits.AbstractUnit;
 
 //TODO: add javadoc
 public interface ConversionInterface {

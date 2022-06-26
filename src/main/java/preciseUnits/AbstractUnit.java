@@ -1,4 +1,4 @@
-package unitConversion;
+package preciseUnits;
 
 import java.util.Objects;
 

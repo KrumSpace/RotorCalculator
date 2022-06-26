@@ -1,6 +1,7 @@
-package unitConversion;
+package preciseUnits.unitConversion;
 
 import org.jetbrains.annotations.NotNull;
+import preciseUnits.AbstractUnit;
 
 //TODO: add javadoc
 public abstract class AbstractConversion implements ConversionInterface {

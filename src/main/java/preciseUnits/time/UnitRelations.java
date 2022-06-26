@@ -1,4 +1,4 @@
-package unitConversion.time;
+package preciseUnits.time;
 
 //TODO: add javadoc
 public class UnitRelations {
