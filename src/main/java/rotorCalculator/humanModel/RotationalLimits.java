@@ -81,7 +81,7 @@ public class RotationalLimits {
         public double getMaxOmega(double velocity) {
             //TODO: this is wrong; hardcoded value
             //double g = Data.generalConstants.standardGravity;
-            double g = 9.9;
+            double g = 9.8;
 
             return (maxCoriolis * g) / (2 * velocity);
         }
