@@ -1,7 +1,5 @@
 package rotorCalculator.humanModel;
 
-import rotorCalculator.data.Data;
-
 // TODO: add javadoc
 public class RotationalLimits {
     public GradientLimits gradientLimits;
