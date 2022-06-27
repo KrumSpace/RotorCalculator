@@ -1,7 +1,7 @@
 package rotorCalculator.data.rotorModel.results;
 
 import rotorCalculator.data.Data;
-import rotorCalculator.data.RotationUtilities;
+import rotationUtilities.RotationUtilities;
 import rotorCalculator.humanModel.HumanModel;
 import rotorCalculator.humanModel.RotationalLimits;
 

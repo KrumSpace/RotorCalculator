@@ -1,7 +1,7 @@
 package rotorCalculator.data.rotorModel;
 
 import rotorCalculator.data.Data;
-import rotorCalculator.data.RotationUtilities;
+import rotationUtilities.RotationUtilities;
 import rotorCalculator.data.innerJointModel.InnerJoint;
 import rotorCalculator.humanModel.HumanModel;
 

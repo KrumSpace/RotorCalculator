@@ -1,4 +1,4 @@
-package rotorCalculator.data;
+package rotationUtilities;
 
 import generalConstants.TimeConstants;
 

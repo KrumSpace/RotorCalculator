@@ -1,6 +1,6 @@
 package rotorCalculator.data.innerJointModel;
 
-import rotorCalculator.data.RotationUtilities;
+import rotationUtilities.RotationUtilities;
 
 /**
  * A class containing rotational limits for inner joint.
