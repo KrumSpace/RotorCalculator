@@ -1,8 +1,8 @@
-package rotorCalculator.graphics.panels.leftPanel;
+package graphicalOutput.graphics.panels.leftPanel;
 
 import graphicsEngine.panels.PanelColors;
 import org.jetbrains.annotations.Nullable;
-import rotorCalculator.graphics.panels.leftPanel.sections.ParticularSections;
+import graphicalOutput.graphics.panels.leftPanel.sections.ParticularSections;
 
 import javax.swing.*;
 

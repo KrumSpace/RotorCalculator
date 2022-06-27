@@ -1,9 +1,9 @@
-package rotorCalculator.graphics;
+package graphicalOutput.graphics;
 
+import graphicalOutput.graphics.panels.leftPanel.LeftPanel;
 import graphicsEngine.panels.PanelColors;
 import graphicsEngine.windows.AbstractPage;
-import rotorCalculator.graphics.panels.Center;
-import rotorCalculator.graphics.panels.leftPanel.LeftPanel;
+import graphicalOutput.graphics.panels.Center;
 
 import java.awt.*;
 

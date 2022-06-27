@@ -1,4 +1,4 @@
-package rotorCalculator.graphics.panels;
+package graphicalOutput.graphics.panels;
 
 import graphicsEngine.panels.PanelColors;
 import graphicsEngine.panels.SimplePanel;

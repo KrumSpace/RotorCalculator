@@ -1,7 +1,7 @@
-package rotorCalculator.main;
+package graphicalOutput;
 
 import rotorCalculator.data.Data;
-import rotorCalculator.graphics.GraphicsAdapter;
+import graphicalOutput.graphics.GraphicsAdapter;
 
 import static graphicsEngine.Utilities.printLine;
 

@@ -1,4 +1,4 @@
-package rotorCalculator.graphics;
+package graphicalOutput.graphics;
 
 import graphicsEngine.windows.AbstractWindow;
 import graphicsEngine.windows.WindowConfig;

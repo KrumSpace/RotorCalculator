@@ -1,4 +1,4 @@
-package rotorCalculator.graphics.panels.leftPanel.sections;
+package graphicalOutput.graphics.panels.leftPanel.sections;
 
 import graphicsEngine.Utilities;
 import graphicsEngine.parts.SimpleLabel;

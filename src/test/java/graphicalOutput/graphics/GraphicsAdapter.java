@@ -1,4 +1,4 @@
-package rotorCalculator.graphics;
+package graphicalOutput.graphics;
 
 import graphicsEngine.AbstractGraphicsAdapter;
 
