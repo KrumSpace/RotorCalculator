@@ -1,4 +1,4 @@
-package rotorCalculator.data.rotorModel;
+package rotorCalculator.rotorModel;
 
 import generalConstants.Environment;
 

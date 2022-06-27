@@ -1,9 +1,9 @@
-package rotorCalculator.data.rotorModel.results;
+package rotorCalculator.rotorModel.results;
 
-import rotorCalculator.data.Data;
+import rotorCalculator.Data;
 import rotationUtilities.RotationUtilities;
-import rotorCalculator.humanModel.HumanModel;
-import rotorCalculator.humanModel.RotationalLimits;
+import humanModel.HumanModel;
+import humanModel.RotationalLimits;
 
 //TODO: finish this
 public interface ParticularResults {

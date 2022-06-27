@@ -1,4 +1,4 @@
-package rotorCalculator.humanModel;
+package humanModel;
 
 //TODO: add javadoc
 public class HumanModel {

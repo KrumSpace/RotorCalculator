@@ -1,4 +1,4 @@
-package rotorCalculator.data.rotorModel.results;
+package rotorCalculator.rotorModel.results;
 
 //TODO: finish this and add javadoc
 public class ResultContainer {

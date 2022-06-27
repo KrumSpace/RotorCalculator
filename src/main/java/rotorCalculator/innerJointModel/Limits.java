@@ -1,4 +1,4 @@
-package rotorCalculator.data.innerJointModel;
+package rotorCalculator.innerJointModel;
 
 import rotationUtilities.RotationUtilities;
 

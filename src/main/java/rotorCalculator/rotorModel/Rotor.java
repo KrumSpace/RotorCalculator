@@ -1,9 +1,9 @@
-package rotorCalculator.data.rotorModel;
+package rotorCalculator.rotorModel;
 
-import rotorCalculator.data.Data;
+import rotorCalculator.Data;
 import rotationUtilities.RotationUtilities;
-import rotorCalculator.data.innerJointModel.InnerJoint;
-import rotorCalculator.humanModel.HumanModel;
+import rotorCalculator.innerJointModel.InnerJoint;
+import humanModel.HumanModel;
 
 /**
  * Calculates the size of a rotating living habitat for living in a weightless environment.

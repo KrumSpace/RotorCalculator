@@ -1,6 +1,6 @@
 package graphicalOutput;
 
-import rotorCalculator.data.Data;
+import rotorCalculator.Data;
 import graphicalOutput.graphics.GraphicsAdapter;
 
 import static graphicsEngine.Utilities.printLine;

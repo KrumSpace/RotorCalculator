@@ -2,7 +2,7 @@ package graphicalOutput.graphics.panels.leftPanel.sections;
 
 import graphicsEngine.panels.PanelColors;
 import org.jetbrains.annotations.Nullable;
-import rotorCalculator.data.Data;
+import rotorCalculator.Data;
 
 import javax.swing.*;
 import java.awt.*;

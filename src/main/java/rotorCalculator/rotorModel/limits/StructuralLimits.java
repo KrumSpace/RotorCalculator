@@ -1,4 +1,4 @@
-package rotorCalculator.data.rotorModel.limits;
+package rotorCalculator.rotorModel.limits;
 
 // TODO: add javadoc
 public class StructuralLimits {

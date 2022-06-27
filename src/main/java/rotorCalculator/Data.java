@@ -1,9 +1,9 @@
-package rotorCalculator.data;
+package rotorCalculator;
 
 import generalConstants.*;
-import rotorCalculator.data.rotorModel.Preferences;
-import rotorCalculator.data.rotorModel.Rotor;
-import rotorCalculator.data.rotorModel.results.ResultContainer;
+import rotorCalculator.rotorModel.Preferences;
+import rotorCalculator.rotorModel.Rotor;
+import rotorCalculator.rotorModel.results.ResultContainer;
 
 /**
  * A class for containing data for calculations.
