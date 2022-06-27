@@ -1,9 +1,10 @@
 package rotorCalculator.data.rotorModel;
 
-import org.jetbrains.annotations.Nullable;
-import rotorCalculator.data.constants.Environment;
+import generalConstants.Environment;
 
 import java.util.Objects;
+
+import org.jetbrains.annotations.Nullable;
 
 // TODO: add javadoc
 public class Preferences {

@@ -1,8 +1,8 @@
-package rotorCalculator.data.constants;
-
-import org.jetbrains.annotations.Nullable;
+package generalConstants;
 
 import java.util.Objects;
+
+import org.jetbrains.annotations.Nullable;
 
 // TODO: add javadoc
 public class GeneralConstants {

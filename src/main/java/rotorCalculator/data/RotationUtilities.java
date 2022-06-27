@@ -1,6 +1,6 @@
 package rotorCalculator.data;
 
-import rotorCalculator.data.constants.TimeConstants;
+import generalConstants.TimeConstants;
 
 public class RotationUtilities {
     //converts period to omega
