@@ -17,7 +17,7 @@ A calculator for calculating minimum sizes of a habitable rotor.
 * JDK: 18
 * Maven compiler: 18
 * Maven Surefire: 3.0.0-M7
-* [GraphicsEngine](https://github.com/Krumuvecis/GraphicsEngine) : 0.8.1
+* [GraphicsEngine](https://github.com/Krumuvecis/GraphicsEngine) : 0.8.3
 
 
 ## Notes
